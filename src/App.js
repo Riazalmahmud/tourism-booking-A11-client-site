@@ -31,7 +31,7 @@ function App() {
             <Route path="/home">
               <Home></Home>
             </Route>
-            <PrivateRoute path="/ManageAllOrders/:bookingID">
+            <PrivateRoute path="/ManageAllOrders">
               <ManageAllOrders></ManageAllOrders>
             </PrivateRoute>
             <PrivateRoute path="/PlaceOrder">

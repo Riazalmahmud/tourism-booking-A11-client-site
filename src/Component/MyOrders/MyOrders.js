@@ -14,7 +14,6 @@ const MyOrders = () => {
 
     return (
         <div>
-            <h1>hello my orders page </h1>
             {
                 bookings.map(booking => <MyOrder
                     key={booking._id}
