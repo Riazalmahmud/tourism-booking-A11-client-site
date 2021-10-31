@@ -1,0 +1,17 @@
+
+
+
+.header-bg{
+    background-color: #003580;
+    height: 200px;
+}
+.header-bg input,button{
+    height: 50px;
+}
+.header-bg button{
+    width: 110px;
+    border: 1px solid;
+    margin-top: 4px;
+    background: #FFDE00;
+    font-weight: 600;
+}

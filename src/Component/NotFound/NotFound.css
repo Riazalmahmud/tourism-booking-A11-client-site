@@ -1,0 +1,9 @@
+
+.notFound-page{
+    background-image: url(../../images/image-collection/404.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+    width: 100%;
+}

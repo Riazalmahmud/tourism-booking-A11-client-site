@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/svKfjkF/tac10.jpg",
+        "country": "Cyprus",
+        "price": 150,
+        "review": 5
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/KNbCHHQ/tac8-600x500.jpg",
+        "country": "Spain",
+        "price": 150,
+        "review": 5
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/KhtL85Q/22ff133ca03c0a600ee43e54755e639e.jpg",
+        "country": "senmartin",
+        "price": 200,
+        "review": 3
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/vqFPfF9/viceroy-bali.jpg",
+        "country": "indonesia",
+        "price": 200,
+        "review": 5
+    }
+]

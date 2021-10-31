@@ -1,0 +1,18 @@
+
+
+.add-booking-service{
+    
+}
+
+
+.add-booking-service input {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    margin: 10px auto;
+}
+.add-booking-service textarea{
+margin: 10px auto;
+width: 40%;
+}
