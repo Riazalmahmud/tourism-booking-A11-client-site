@@ -7,15 +7,9 @@ const MyOrder = (props) => {
     const { title, country } = props.booking
 
 
-
     const handaleDelete = id => {
         const url = `https://eerie-hollow-26937.herokuapp.com/booking/${id}`;
-        fetch(url)
-            .then(res => res.json())
-            .then(data => {
-                setBooking(data)
-                console.log(data)
-            })
+        console.log(url)
 
     }
 
